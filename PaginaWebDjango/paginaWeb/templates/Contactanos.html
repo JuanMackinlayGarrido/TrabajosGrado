@@ -1,0 +1,25 @@
+{% extends "index.html" %}
+{% block CSS %}
+    {% load staticfiles %}
+        <link rel="stylesheet" href="{% static 'css/contactanos.css' %}" type="text/css">
+{% endblock %}
+
+{% block Panel %}
+{% load staticfiles %}
+{% load crispy_forms_tags %}
+<h3 class="text-center">
+    Contáctanos
+</h3>
+<div class="col-md-3 contentContacto">
+    <form action="" method="POST">
+        <table>
+           {{ form|crispy }}
+        </table>
+            <button onclick="SugerenciaGracias()" type="submit">Enviar Sugerencia</button>
+        {% csrf_token %}
+    </form>
+
+</div>
+
+
+{% endblock %}

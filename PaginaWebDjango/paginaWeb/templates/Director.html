@@ -1,0 +1,16 @@
+{% extends "index.html" %}
+
+{% block Panel %}
+        {% for o in organizaciones %}
+            {% if o.id_usuario != null %}
+                         {% for d in directores %}
+                            {% ifequal d o.id_usuario %}
+                                <h4> {{d.nombre}}</h4>
+                                <p>{{d.nombre}} es director de la asociacion {{o.nombre}}.</p>
+                                <p>Su telefono es {{d.telefono}} y su edad es {{d.edad}}. </p>
+                                <hr>
+                            {% endifequal %}
+                        {% endfor %}
+        {% endif %}
+    {% endfor %}
+{% endblock %}

@@ -1,0 +1,48 @@
+{% extends 'index.html' %}
+{% block CSS %}
+{% load staticfiles %}
+    <link href="{% static 'css/dondeadoptar.css' %}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+{% block Panel %}
+
+	{% for org in organizaciones %}
+            {% ifequal user.id org.id_usuario.id %}
+			<div class="col-md-12">
+				<a href="{% url 'AddAnimal' %}">Añadir Animal</a>
+			</div>
+			{% endifequal %}
+	{% endfor %}
+
+		<div class="contenedor">
+			<div class="titulo text-center">
+				<h2>En Adopción</h2>
+			</div>
+
+			{% for a in object_list %}
+				<div class="col-md-3 tablon">
+					<div class="cabecera">
+                        {% if a.imagen %}
+						<img class="imagen" src={{ a.imagen.url }} width="280px" height="170px">
+                        {% endif %}
+					</div>
+					<div class="nombre text-center">
+						<h5>{{ a.nombre }}</h5>
+					</div>
+					<div class="raza">
+						<label for="raza">Raza:</label>
+						<p id="raza">{{ a.raza }}</p>
+					</div>
+					<div class="descripcion">
+						<label for="descripcion">Descripcion:</label>
+						<p id="descripcion">{{ a.descripcion }}</p>
+					</div>
+                    <div class="raza">
+						<label for="asociacion">Asociacion: </label>
+						<p id="asociacion">{{ a.id_asoc.nombre }}</p>
+					</div>
+
+				</div>
+			{% endfor %}
+		</div>
+{% endblock %}

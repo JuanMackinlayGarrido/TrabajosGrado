@@ -1,0 +1,76 @@
+/*Clases Personalizadas */
+
+/*Pagina de Anuncios De animales perdidos*/
+
+.cuadroAnuncio{
+  height: 500px;
+  margin-left: 6%;
+  margin-top: 5%;
+}
+.imagenAnuncio{
+  float: left;
+  width: 70%;
+  height:180px;
+  margin-left: 15%;
+  margin-top: 20px;
+}
+.stretch {
+    width:100%;
+    height:100%;
+}
+.descripcionAnuncio{
+  float: left;
+  width: 70%;
+  height: 250px;
+  margin-left: 15%;
+  margin-top: 30px;
+}
+.textoDescripcion{
+  float: left;
+  width: 90%;
+  height: 40%;
+  margin-left: 5%;
+  overflow: hidden;
+}
+.datosAnuncio{
+  float: left;
+  width: 90%;
+  height: 20%;
+  margin-left: 5%;
+}
+
+.contentNuevoAnuncio{
+  float: left;
+  width: 100%;
+}
+
+.contentInformacionAnuncio{
+  float: left;
+  margin-top: 5%;
+  width: 100%
+}
+
+.telefonoForm{
+  width: 15%;
+}
+
+.lblTelefono{
+  float: left;
+}
+
+.titulo{
+  margin-top: 4%;
+}
+.Marco{
+  width: 100%;
+  margin-top:3%;
+  margin-bottom:2%;
+  height: 400px;
+  border: none;
+}
+table{
+width:30%;
+margin-left:40%;
+float:left;
+}
+/*Fin */

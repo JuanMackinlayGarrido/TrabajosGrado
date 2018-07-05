@@ -1,0 +1,23 @@
+<html>
+<head>
+    {% include "Cabecera.html" %}
+    {%  load staticfiles %}
+    <link rel="stylesheet" href="{% static 'css/registro.css' %}">
+</head>
+<body>
+{% load crispy_forms_tags %}
+<form action="" method="POST" enctype="multipart/form-data">
+    <div class="col-md-3 contentRegistro" >
+        <table>
+           {{ form|crispy }}
+        </table>
+    </div>
+    <input type="hidden" id="id_usuario" name="id_usuario" value="{{ user.id }}">
+    <div class="col-md-12">
+        <input type="submit" value="Añadir Anuncio">
+    </div>
+
+    {% csrf_token %}
+</form>
+</body>
+</html>

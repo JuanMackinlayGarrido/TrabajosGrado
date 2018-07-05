@@ -1,0 +1,38 @@
+
+.contenedor{
+	width: 100%;
+	float:left;
+}
+.tablon{
+	float:left;
+	width:24%;
+	height:50%;
+	margin-left:7%;
+	margin-top:5%;
+	margin-bottom:1%;
+}
+.nombre{
+	margin-top:2%;
+}
+.descripcion{
+	margin-top:2%;
+	margin-left:2%;
+}
+.titulo{
+	margin-top:2%;
+}
+.imagen{
+	border-radius:50%;
+	width:100%;
+	height:200px;
+}
+.contentImagen{
+    height:200px;
+}
+.contentAsociacion{
+  float: left;
+  width: 70%;
+  height: 250px;
+  margin-left: 15%;
+  margin-top: 30px;
+}

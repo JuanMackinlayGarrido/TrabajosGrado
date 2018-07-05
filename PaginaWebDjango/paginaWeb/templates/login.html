@@ -1,0 +1,26 @@
+{% extends "index.html" %}
+{% block CSS %}
+{%  load staticfiles %}
+	<link href="{% static 'css/registro.css' %}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+{% block Panel %}
+	{% load crispy_forms_tags %}
+		<div class="">
+			<h3 class="letraAzul">Iniciar Sesion</h3>
+            {% if form.errors %}
+            <p>Existe algun error en el formulario</p>
+            {% endif %}
+			<div class="col-md-3 contentRegistro">
+				 <form action="{% url 'Login' %}" method="post" class="post-form" enctype="multipart/form-data">
+                <table>
+                    {{ form|crispy }}
+                </table>
+                {%  csrf_token  %}
+                <button type="submit"> ¡Entra! </button>
+            </form>
+			</div>
+		</div>
+
+
+{% endblock %}

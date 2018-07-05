@@ -1,0 +1,63 @@
+<div class="main-container">
+	  		<!-- Header -->
+	{% include 'Cabecera.html' %}
+	{% block CSS %}
+		{% load staticfiles %}
+		<link href="{% static 'css/navegador.css' %}" rel="stylesheet" type="text/css">
+	{% endblock %}
+		  <div class="header">
+			  <div class="collapse navbar-collapse col-md-2 menuUsuario" id="app-navbar-collapse">
+                    <!-- Left Side Of Navbar -->
+                    <ul class="nav navbar-nav menuOpcionesUser">
+					{% if user.is_authenticated %}
+						<li><a href="#"> {{ user.username }} </a></li>
+						<li><a href="{% url 'Logout' %}">Cerrar Sesion</a></li>
+						{% if user.is_staff %}
+						<li><a href="../admin">Administracion</a></li>
+						{% endif %}
+					{% else %}
+						<li><a href="{% url 'Registro' %}"> Registro </a></li>
+					<li><a href="{% url 'Login' %}">Iniciar Sesion</a></li>
+					{% endif %}
+                        &nbsp;
+                    </ul>
+			</div>
+		    <div class="container">
+                <div class="col-md-12">
+                    <h1><a href="{% url 'index' %}">Animal's Safe</a></h1>
+                </div>
+
+		      <!-- Links -->
+		      <div class="links col-md-12">
+		        <!-- Main Menu -->
+		        <ul class="menu">
+                    <li><a href="{% url 'Anuncios' %}" title="Animaes perdidos">Animales perdidos</a></li>
+                   	<li><a href="{% url 'Organizaciones' %}" title="Asociaciones">Asociaciones</a></li>
+                    <li><a href="{% url 'DondeAdoptar' %}" title="Donde adoptar">Donde adoptar</a></li>
+                    <li><a href="{% url 'Contacto' %}" title="Contactanos">Contáctanos</a></li>
+		        </ul>
+		        <!-- Main Menu Ends! -->
+		      </div>
+		      <!-- Links Ends! -->
+
+		    </div>
+		  </div>
+		  <!-- footer -->
+		  <div class="footer">
+		    <div class="container">
+		    </div>
+		  </div>
+		  <!-- footer ends -->
+
+		</div>
+
+		<!-- Scripts -->
+		<script src="js/jquery-1.11.0.min.js"></script>
+		<script src="js/jquery.flexslider-min.js') }}"></script>
+		<script src="js/isotope.pkgd.min.js"></script>
+		<script src="js/imagelightbox.min.js"></script>
+		<script src="js/theme.js"></script>
+		<script src="js/jquery.inview.min.js"></script>
+		<script src="js/form.js"></script>
+
+		<!-- Scripts Ends! -->

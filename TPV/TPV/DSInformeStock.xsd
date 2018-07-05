@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSInformeStock" targetNamespace="http://tempuri.org/DSInformeStock.xsd" xmlns:mstns="http://tempuri.org/DSInformeStock.xsd" xmlns="http://tempuri.org/DSInformeStock.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="ConexionTPV" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConexionTPV (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TPV.My.MySettings.GlobalReference.Default.ConexionTPV" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="informe_stockTableAdapter" GeneratorDataComponentClassName="informe_stockTableAdapter" Name="informe_stock" UserDataComponentName="informe_stockTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConexionTPV (MySettings)" DbObjectName="tpv.informe_stock" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `Nombre_Almacen`, `Nombre_Producto`, `Cantidad` FROM `tpv`.`informe_stock`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Nombre_Almacen" DataSetColumn="Nombre_Almacen" />
+              <Mapping SourceColumn="Nombre_Producto" DataSetColumn="Nombre_Producto" />
+              <Mapping SourceColumn="Cantidad" DataSetColumn="Cantidad" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSInformeStock" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="DSInformeStock" msprop:Generator_UserDSName="DSInformeStock">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="informe_stock" msprop:Generator_TableClassName="informe_stockDataTable" msprop:Generator_TableVarName="tableinforme_stock" msprop:Generator_TablePropName="informe_stock" msprop:Generator_RowDeletingName="informe_stockRowDeleting" msprop:Generator_RowChangingName="informe_stockRowChanging" msprop:Generator_RowEvHandlerName="informe_stockRowChangeEventHandler" msprop:Generator_RowDeletedName="informe_stockRowDeleted" msprop:Generator_UserTableName="informe_stock" msprop:Generator_RowChangedName="informe_stockRowChanged" msprop:Generator_RowEvArgName="informe_stockRowChangeEvent" msprop:Generator_RowClassName="informe_stockRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nombre_Almacen" msprop:Generator_ColumnVarNameInTable="columnNombre_Almacen" msprop:Generator_ColumnPropNameInRow="Nombre_Almacen" msprop:Generator_ColumnPropNameInTable="Nombre_AlmacenColumn" msprop:Generator_UserColumnName="Nombre_Almacen">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nombre_Producto" msprop:Generator_ColumnVarNameInTable="columnNombre_Producto" msprop:Generator_ColumnPropNameInRow="Nombre_Producto" msprop:Generator_ColumnPropNameInTable="Nombre_ProductoColumn" msprop:Generator_UserColumnName="Nombre_Producto">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cantidad" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" msprop:Generator_UserColumnName="Cantidad" type="xs:float" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

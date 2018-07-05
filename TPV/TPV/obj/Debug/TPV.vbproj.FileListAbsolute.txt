@@ -1,0 +1,232 @@
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\bin\Debug\TPV.exe.config
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\bin\Debug\TPV.exe
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\bin\Debug\TPV.pdb
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\bin\Debug\TPV.xml
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\obj\Debug\TPV.vbprojResolveAssemblyReference.cache
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\obj\Debug\TPV.Resources.resources
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\obj\Debug\TPV.vbproj.GenerateResource.Cache
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\obj\Debug\TPV.exe
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\obj\Debug\TPV.xml
+C:\Users\JosePC\AppData\Local\Temporary Projects\TPV\obj\Debug\TPV.pdb
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.xml
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.pdb
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.vbprojResolveAssemblyReference.cache
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.Resources.resources
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.vbproj.GenerateResource.Cache
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\TPV.xml
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.agregarProductos.resources
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.eliminarProductos.resources
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.principal.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\bin\Debug\TPV.xml
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.agregarProductos.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.eliminarProductos.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.Resources.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.principal.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.vbproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.vbproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.xml
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.pdb
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.xml
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.pdb
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\TPV.xml
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\MySql.Data.xml
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.vbprojResolveAssemblyReference.cache
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.AgregarAsociacion.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.agregarProductos.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.eliminarProductos.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.Resources.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.principal.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.vbproj.GenerateResource.Cache
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\MySql.Data.dll
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\bin\Debug\MySql.Data.xml
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.AgregarAsociacion.resources
+C:\Users\JosePC\Desktop\Proyectos2DAM\ProyectosVisualBasic\TPV\TPV\obj\Debug\TPV.listaProducto.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.xml
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.pdb
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\TPV.xml
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\MySql.Data.xml
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.vbprojResolveAssemblyReference.cache
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.AgregarAsociacion.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.agregarProductos.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.eliminarProductos.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.listaProducto.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.Resources.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.principal.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.vbproj.GenerateResource.Cache
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.VentanaEmergenteCantidad.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.MsgboxPersonalizado.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\bin\Debug\MySql.Data.xml
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.AgregarAsociacion.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.listaProducto.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.MsgboxPersonalizado.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.VentanaEmergenteCantidad.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.listaProducto.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.MsgboxPersonalizado.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.VentanaEmergenteCantidad.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.almacenes.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.almacenes.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.Asociaciones.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.Carrito.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.almacenes.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.Asociaciones.resources
+C:\Users\Juan\Desktop\Juan 2ºDAM\Visual\TPV\TPV\TPV\obj\Debug\TPV.Carrito.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.xml
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.pdb
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\TPV.xml
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\MySql.Data.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\MySql.Data.xml
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.vbprojResolveAssemblyReference.cache
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.AgregarAsociacion.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.agregarProductos.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.almacenes.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.Asociaciones.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.Carrito.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.eliminarProductos.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.listaProducto.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.MsgboxPersonalizado.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.Resources.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.principal.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.VentanaEmergenteCantidad.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.vbproj.GenerateResource.Cache
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.SeleccionAsociacion.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\bin\Debug\TPV.exe.config
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.exe
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.xml
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.pdb
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\bin\Debug\TPV.exe
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\bin\Debug\TPV.pdb
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\bin\Debug\TPV.xml
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\bin\Debug\MySql.Data.dll
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\bin\Debug\MySql.Data.xml
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.vbprojResolveAssemblyReference.cache
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.AgregarAsociacion.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.agregarProductos.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.almacenes.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.Asociaciones.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.Carrito.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.eliminarProductos.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.Form1.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.listaProducto.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.MsgboxPersonalizado.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.Resources.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.principal.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.SeleccionAsociacion.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.VentanaEmergenteCantidad.resources
+C:\Users\2DAM\Desktop\TPVGrupo\TPV\TPV\obj\Debug\TPV.vbproj.GenerateResource.Cache
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.SeleccionAsociacion.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.ventanaInformes.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.Asociaciones.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.Carrito.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.SeleccionAsociacion.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.ventanaInformes.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.modificarProducto.resources
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\FlashControlV71.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\bin\Debug\stdole.dll
+C:\Users\orteg\Documents\Visual Studio 2015\ProyectosVisual\2Trimestre\TPV\TPV\obj\Debug\TPV.InformeEntradaxFecha.resources
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\FlashControlV71.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\JosePC\Desktop\TPV\TPV\bin\Debug\stdole.dll
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.Albaran.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.InformeEntradaxFecha.resources
+C:\Users\JosePC\Desktop\TPV\TPV\obj\Debug\TPV.modificarProducto.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\FlashControlV71.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\bin\Debug\stdole.dll
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.Albaran.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.InformeEntradaxFecha.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.InformeStock.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.modificarProducto.resources
+C:\Users\2DAM\Desktop\TPV\TPV\TPV\obj\Debug\TPV.ventanaInformes.resources

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsAlbaran" targetNamespace="http://tempuri.org/dsAlbaran.xsd" xmlns:mstns="http://tempuri.org/dsAlbaran.xsd" xmlns="http://tempuri.org/dsAlbaran.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="ConexionTPV" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConexionTPV (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TPV.My.MySettings.GlobalReference.Default.ConexionTPV" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="albaranTableAdapter" GeneratorDataComponentClassName="albaranTableAdapter" Name="albaran" UserDataComponentName="albaranTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConexionTPV (MySettings)" DbObjectName="tpv.albaran" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `Nombre_Asociacion`, `direccion_Asociacion`, `telefono_Asociacion`, `Nombre_Almacen`, `direccion_Almacen`, `telefono_Almacen`, `Nombre_Producto`, `Cantidad`, `fecha` FROM `tpv`.`albaran`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Nombre_Asociacion" DataSetColumn="Nombre_Asociacion" />
+              <Mapping SourceColumn="direccion_Asociacion" DataSetColumn="direccion_Asociacion" />
+              <Mapping SourceColumn="telefono_Asociacion" DataSetColumn="telefono_Asociacion" />
+              <Mapping SourceColumn="Nombre_Almacen" DataSetColumn="Nombre_Almacen" />
+              <Mapping SourceColumn="direccion_Almacen" DataSetColumn="direccion_Almacen" />
+              <Mapping SourceColumn="telefono_Almacen" DataSetColumn="telefono_Almacen" />
+              <Mapping SourceColumn="Nombre_Producto" DataSetColumn="Nombre_Producto" />
+              <Mapping SourceColumn="Cantidad" DataSetColumn="Cantidad" />
+              <Mapping SourceColumn="fecha" DataSetColumn="fecha" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsAlbaran" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="dsAlbaran" msprop:Generator_UserDSName="dsAlbaran">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="albaran" msprop:Generator_TableClassName="albaranDataTable" msprop:Generator_TableVarName="tablealbaran" msprop:Generator_TablePropName="albaran" msprop:Generator_RowDeletingName="albaranRowDeleting" msprop:Generator_RowChangingName="albaranRowChanging" msprop:Generator_RowEvHandlerName="albaranRowChangeEventHandler" msprop:Generator_RowDeletedName="albaranRowDeleted" msprop:Generator_UserTableName="albaran" msprop:Generator_RowChangedName="albaranRowChanged" msprop:Generator_RowEvArgName="albaranRowChangeEvent" msprop:Generator_RowClassName="albaranRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nombre_Asociacion" msprop:Generator_ColumnVarNameInTable="columnNombre_Asociacion" msprop:Generator_ColumnPropNameInRow="Nombre_Asociacion" msprop:Generator_ColumnPropNameInTable="Nombre_AsociacionColumn" msprop:Generator_UserColumnName="Nombre_Asociacion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="direccion_Asociacion" msprop:Generator_ColumnVarNameInTable="columndireccion_Asociacion" msprop:Generator_ColumnPropNameInRow="direccion_Asociacion" msprop:Generator_ColumnPropNameInTable="direccion_AsociacionColumn" msprop:Generator_UserColumnName="direccion_Asociacion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="telefono_Asociacion" msprop:Generator_ColumnVarNameInTable="columntelefono_Asociacion" msprop:Generator_ColumnPropNameInRow="telefono_Asociacion" msprop:Generator_ColumnPropNameInTable="telefono_AsociacionColumn" msprop:Generator_UserColumnName="telefono_Asociacion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="9" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nombre_Almacen" msprop:Generator_ColumnVarNameInTable="columnNombre_Almacen" msprop:Generator_ColumnPropNameInRow="Nombre_Almacen" msprop:Generator_ColumnPropNameInTable="Nombre_AlmacenColumn" msprop:Generator_UserColumnName="Nombre_Almacen">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="direccion_Almacen" msprop:Generator_ColumnVarNameInTable="columndireccion_Almacen" msprop:Generator_ColumnPropNameInRow="direccion_Almacen" msprop:Generator_ColumnPropNameInTable="direccion_AlmacenColumn" msprop:Generator_UserColumnName="direccion_Almacen">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="140" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="telefono_Almacen" msprop:Generator_ColumnVarNameInTable="columntelefono_Almacen" msprop:Generator_ColumnPropNameInRow="telefono_Almacen" msprop:Generator_ColumnPropNameInTable="telefono_AlmacenColumn" msprop:Generator_UserColumnName="telefono_Almacen">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="9" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nombre_Producto" msprop:Generator_ColumnVarNameInTable="columnNombre_Producto" msprop:Generator_ColumnPropNameInRow="Nombre_Producto" msprop:Generator_ColumnPropNameInTable="Nombre_ProductoColumn" msprop:Generator_UserColumnName="Nombre_Producto">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cantidad" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" msprop:Generator_UserColumnName="Cantidad" type="xs:float" />
+              <xs:element name="fecha" msprop:Generator_ColumnVarNameInTable="columnfecha" msprop:Generator_ColumnPropNameInRow="fecha" msprop:Generator_ColumnPropNameInTable="fechaColumn" msprop:Generator_UserColumnName="fecha">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

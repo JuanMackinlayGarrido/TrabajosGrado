@@ -1,0 +1,53 @@
+{% extends "index.html" %}
+{% block CSS %}
+ {%  load staticfiles %}
+<link href="{% static 'css/anuncios.css' %}" rel="stylesheet" type="text/css">
+{% endblock %}
+
+{% block Panel %}
+{%  load staticfiles %}
+{% if user.is_authenticated %}
+<div class="col-md-12 text-center">
+    <button onclick="nuevoAnuncio()">Publica tu Anuncio</button>
+</div>
+<div id="PublicaAnuncio" style="display: none;" class="col-md-12 contentNuevoAnuncio">
+        <iframe src="AddAnuncio" class="Marco">
+        </iframe>
+        <div id="Cerrar" class="text-center">
+            <button class="btnCerrar" onclick="cerrar()">Cerrar Publicacion</button>
+        </div>
+</div>
+{% endif %}
+
+<div class="titulo text-center col-md-12">
+  <h2>Animales perdidos</h2>
+</div>
+<div class="col-md-12">
+  {% for a in anuncios %}
+
+    <div class="cuadroAnuncio col-md-3">
+      <div class="imagenAnuncio">
+          {% if a.imagen %}
+          <img src={{ a.imagen.url }} class="stretch">
+          {% endif %}
+      </div>
+      <div class="descripcionAnuncio">
+        <div class="textoDescripcion">
+          {{ a.descripcion }}
+        </div>
+        <div class="datosAnuncio">
+          <p class=".text-center">{{ a.id_usuario.telefono }}</p>
+        </div>
+        <div class="datosAnuncio">
+          <p>{{ a.id_usuario.id.username }}</p>
+        </div>
+        <div class="datosAnuncio">
+          <p>{{ a.fecha_anuncio }}</p>
+        </div>
+      </div>
+    </div>
+
+{% endfor %}
+</div>
+
+{% endblock %}
